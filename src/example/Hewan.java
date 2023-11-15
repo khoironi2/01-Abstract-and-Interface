@@ -11,7 +11,5 @@ public class Hewan {
         return this.nama;
     }
 
-    void show(){
-        System.out.println("Hewan : " + this.nama);
-    }
+    
 }
